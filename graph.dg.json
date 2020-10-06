@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "restore": {},
+  "projects": {
+    "/data/Projects/Unity/Emacsing/Assembly-CSharp.csproj": {
+      "restore": {
+        "projectUniqueName": "/data/Projects/Unity/Emacsing/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/data/Projects/Unity/Emacsing/Assembly-CSharp.csproj",
+        "frameworks": {
+          "net471": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net471": {}
+      }
+    }
+  }
+}
